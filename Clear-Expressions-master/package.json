@@ -1,0 +1,12 @@
+{
+  "name": "clear-expression",
+  "version": "3.0.0",
+  "description": "parse json into pretty expression",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumar Saurabh",
+  "license": "ISC"
+}
